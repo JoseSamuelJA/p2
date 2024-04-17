@@ -1,0 +1,1 @@
+Nombre: samuel, Apellido: jimenez, Edad: 19, Salario: 250
